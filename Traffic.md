@@ -3,4 +3,8 @@
 ```
 nettop -p <pid>
 ```
+- [Capture app traffic from little snitch](https://help.obdev.at/littlesnitch4/adv-traffic-capture)
+  - 1. Open Little Snitch network monitor
+  - 2. Right-click on an app
+  - 3. Capture traffic
 ## SSL
