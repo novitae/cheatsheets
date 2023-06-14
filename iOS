@@ -1,0 +1,7 @@
+# iOS
+## SSH to jailbroken iOS gives `UNIX authentification refused`
+On the phone (newterm):
+```
+sudo passwd root
+```
+Set same password everytime (alpine)
